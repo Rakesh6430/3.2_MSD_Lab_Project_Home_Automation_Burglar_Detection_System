@@ -1,4 +1,4 @@
-# 3.2_MSD_Lab_Project_Home_Automation_Burglar_Detection_System
+# Home Automation Burglar Detection System
 
 # Objective
 
